@@ -1,6 +1,5 @@
 # VARIÁVEIS DE CLASSE
 
-# Variáveis de classe só podem ser acessadas pela classe
 # Todas as instâncias compartilham da mesma variável de classe
 # ou seja, todas tem o mesmo valor e se o valor for alterado,
 # isso será refletido nas outras instâncias
